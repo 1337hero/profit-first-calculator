@@ -6,6 +6,10 @@ This React application is a simple calculator based on the "[Profit First](https
 
 The [Profit First](https://amzn.to/3LF9lKN) method advocates for a proactive approach to business finances, ensuring that profit is prioritized and expenses are managed effectively.
 
+## Future plans
+
+I am toying with the idea of adding Plaid to this project and a login to enable the ability to create automatic ACH transfers using the caculated amounts. That would be a much bigger app however.
+
 ## Features
 
 - Simple, user-friendly interface
